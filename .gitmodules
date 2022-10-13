@@ -1,0 +1,3 @@
+[submodule "command_imaging/a/b/Control"]
+	path = command_imaging/a/b/Control
+	url = https://github.com/trananhkiet/Control.git
